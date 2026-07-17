@@ -4,7 +4,7 @@
     "title": "First Video",
     "uploader": "PlazG",
     "description": "first ever video of spoinkytube.",
-    "video": "videos/vid.mp4",
-    "thumbnail": "thumbnails/vid.jpg"
+    "video": "vid.mp4",
+    "thumbnail": "vid.jpg"
   }
 ]
